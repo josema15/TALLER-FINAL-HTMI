@@ -1,7 +1,7 @@
 /* Variables */
 :root {
   --main-color: #191c32; /* Color principal de fondo */
-  --primary-color: #00bcd4; /* Color destacado, aqua brillante */
+  --primary-color: #bde452; /* Color destacado, aqua brillante */
   --secondary-color: hwb(0 96% 2%); /* Color secundario, blanco */
   --highlight-color: #f39c12; /* Color de acento para elementos destacados */
 }
